@@ -149,6 +149,7 @@ a{
     #tovar {
         display:none;
     }
+}
 .inline{
     display: inline-block;
     width: fit-content;
@@ -158,4 +159,5 @@ a{
 footer{
     margin-top: 200px;
 }
-}
+
+
