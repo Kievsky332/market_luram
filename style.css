@@ -149,4 +149,13 @@ a{
     #tovar {
         display:none;
     }
+.inline{
+    display: inline-block;
+    width: fit-content;
+    margin-right: 400px;
+}
+
+footer{
+    margin-top: 200px;
+}
 }
